@@ -1,1 +1,1 @@
-print("hola"):_annotations__
+print("hola")
